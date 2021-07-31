@@ -1,0 +1,1 @@
+# X570_GamingX_OC0.71_Monterey-Beta-3
