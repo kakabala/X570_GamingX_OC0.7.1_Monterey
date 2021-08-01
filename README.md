@@ -2,6 +2,7 @@
 
 ### Tested:
 - Monterey Beta 3
+- Monterey Beta 4
 
 ## Hardware
 
@@ -16,7 +17,7 @@
 | WiFi & Bluetooth | Broadcom BCM94360 PCIe card (Bluetooth + Wi-Fi) |
 | OS Disk (NVMe)   | Samsung 970 EVO NVMe 500G                       |
 
-**macOS version**: 12.0 Beta 3 (21A5284e) \
+**macOS version**: 12.0 Beta 3 (21A5284e), 12.0 Beta 4 (21A5294g) \
 **OpenCore version**: 0.7.1
 
 
